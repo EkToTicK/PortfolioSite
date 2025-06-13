@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(233, 115, 56);
+    font-family: sans-serif;
+}
+img{
+    width: 300px;
+    border-radius: 5px;
+    position: left;
+}
+span{
+    color: cornflowerblue;
+}
+
+.cat{
+    width: 300px;
+    border-radius: 5px;
+    position: left; 
+}
+        
